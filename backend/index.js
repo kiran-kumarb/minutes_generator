@@ -23,7 +23,7 @@ const pool = new Pool({
     user: 'postgres', // Your DB_USER
     host: 'localhost', // Your DB_HOST
     database: 'minutes_generator', // Your DB_DATABASE
-    password: 'kirankumarb7', // <--- YOUR SPECIFIC PASSWORD HERE (NO QUOTES)
+    password:  // <--- YOUR SPECIFIC PASSWORD HERE (NO QUOTES)
     port: 5432, // Your DB_PORT
 });
 
